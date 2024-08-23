@@ -10,4 +10,4 @@ Infinite Droppers is a mod that adds droppers that can drop an infinite amount o
 
 ## Support the author
 
-Sorry, I don't currently accept donations. But don't fret, Modrinth pays its author's ad revenue! So if you want to support me, turn off your adblocker for Modrinth.
+<a href="https://polar.sh/tunderwood89"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=tunderwood89&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=tunderwood89&label=Subscribe"></picture></a>
